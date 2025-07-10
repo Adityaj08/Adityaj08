@@ -4,20 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaj08&label=Profile%20views&color=0e75b6&style=flat" alt="adityaj08" /> </p>
 
 
-- 🔭 I’m currently working on **straay gogh**
+- 🔭 I’m currently working on **ThinkFlow-AI**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **web devlopment**
+- 👯 I’m looking to collaborate on **Web/APP devlopment**
 
-- 💬 Ask me about **basic HTML CSS JS**
+- 💬 Ask me about **Web, Python, Native Apps, GenAI**
 
-- 📫 How to reach me **adityaavadhootjoshi@gmail.com**
+- 📫 How to reach me **adityajoshi0817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditya_avadhoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_avadhoot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-joshi-46965927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-joshi-46965927" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityaj08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaj08" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_adityajoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_adityajoshi" height="30" width="40" /></a>
 </p>
 
