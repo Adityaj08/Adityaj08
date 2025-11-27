@@ -32,6 +32,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <p align="left"> <a href="https://twitter.com/aditya_avadhoot" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_avadhoot?logo=twitter&style=for-the-badge" alt="aditya_avadhoot" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Adityaj08&theme=transparent&hide_border=true" alt="adityaj08" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Adityaj08&theme=dark&hide_border=true" alt="adityaj08" /></p>
 
 
